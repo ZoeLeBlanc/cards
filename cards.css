@@ -1,0 +1,17 @@
+.card {
+	height: 20em;
+	width: 10em;
+	border: solid 1px black;
+	display: inline-block;
+	margin: 2em;
+}
+.output {
+	border: solid 1px black;
+	height: 10px;
+	width: 80%;
+	display: block;
+}
+input {
+	width: 30%;
+	display: inline-block;
+}
